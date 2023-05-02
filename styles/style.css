@@ -225,6 +225,8 @@ body {
         padding: 5%;
         justify-content: center;
         text-align: center;
+        width: auto;
+
         
         
     }  
@@ -238,10 +240,11 @@ body {
 
 
     }
+    .links{
+        width: auto;
+    }
     
-    
-  
-        
+   
         
 
     }
