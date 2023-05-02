@@ -224,18 +224,34 @@ body {
         flex-direction: column-reverse;
         padding: 5%;
         justify-content: center;
+        text-align: center;
+        
         
     }  
     .apresentacao__conteudo{
         width: auto;
 
     }  
-    .links{
-        width: auto;
+    
+    .foto__sobre__mim{
+        padding:3% 27% 10% 2.1%;
+
+
     }
+    
+    
+  
+        
+        
+
+    }
+   
+
+    
+
     
 
 
-}
+
 
 
